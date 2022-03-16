@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ### 📊 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=WIZARDGOD&show_icons=true&theme=gotham" alt="Diego's GitHub stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Diego-Esquivel&show_icons=true&theme=gotham" alt="Diego's GitHub stats" />
