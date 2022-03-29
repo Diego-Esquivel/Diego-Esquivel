@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Work
 - 📫 How to reach me: Instagram
 - 😄 Pronouns: They/Them/Theirs
-- ⚡ Fun fact: I don't love writing code
+- ⚡ Fun fact: I love writing code
 
 
 ### Languages and Tools:
