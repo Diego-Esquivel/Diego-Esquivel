@@ -1,6 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript">
-         
-</script>
 ### Hi there My Name Is Diego👋
 
 <!--
@@ -19,15 +16,11 @@ Here are some ideas to get you started:
 
 
 ### Languages and Tools:
-
+<p align="center"><a src=""><img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"/></a></p>
 <!--<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /-->
 <br />
 <br />
 <br />
-
-### Connect at
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="diego-g-esquivel" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/diego-g-esquivel?trk=profile-badge">Diego G Esquivel</a></div>
          
 
 ### 📊 My GitHub Stats
