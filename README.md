@@ -54,9 +54,8 @@ There are 6 levels of headings :
 
 Paragraphs :  
 <br>
-         Use an empty line to separate one paragraph from another  
-         
-         Do not start a paragraph with a space or an indent  
+Use an empty line to separate one paragraph from another  
+Do not start a paragraph with a space or an indent  
 <br>         
 
 Line Breaks : For readability IF compatible use the HTML \<br> tag instead of the double space  
@@ -78,11 +77,54 @@ Emphasis : You can add bold and italic to text
 \_ : Type 2 to italicize is one underscore at the start and the end of the text  
 <br>
 
-Blockquotes : For compatibility place line breaks before and after blockquotes  
+Blockquotes : For compatibility place a new line before and after blockquotes  
 <br>
 \> : Create a blockquote with a \> in front of a paragraph and in front of each line break between paragraphs  
 <br>
 
-Nested Blockquotes : For compatibility place line breaks before and after blockquotes  
+Nested Blockquotes : For compatibility place a new line before and after blockquotes  
 <br>
 \>\> : Create a nested blockquote with a double \> in front of a nested paragraph and in front of each line break between nested paragraphs  
+<br>
+
+Lists : Indent items to create a nested list
+<br>
+
+#### Ordered Lists : For compatibility only use periods  
+
+1\. : Create an ordered list with the number 1 followed by a period then a space and the item text
+<br>
+
+#### Unordered Lists : For compatibility pick one list delimiter and stick w/ it  
+
+\- : Type 1 to create a list is one hyphen sign and a space then the item text  
+\* : Type 2 to create a list is one asterisk sign and a space then the item text  
+\+ : Type 3 to create a list is on plus sign and a space then the item text  
+<br>
+
+Nesting elements in lists :  
+<br>
+
+Nest elements in lists by adding four spaces or one tab to the list item and then being the element normally  
+<br>
+
+Code :  
+<br>
+\` : Using 1 \` at the start and the end of a word or phrase encodes it as code  
+<br>
+
+Escaping Backticks :  
+<br>
+\'\' : Using 2 \` at the start and the end of a word or phrase encodes all \` in the word or phrase as code
+<br>
+
+Code Blocks :  
+<br>
+Use 4 spaces or one tab at every line to create code blocks  
+<br>
+
+Horizontal Rules : For compatibility place a new line before and after a horizontal rule  
+<br>
+\*\*\* : Type 1 to create a horizontal rule is 3 asterisks on a line by themselves  
+\-\-\- : Type 2 to create a horizontal rule is 3 hyphens on a line by themselves  
+\_\_\_ : Type 3 to create a horizontal rule is 3 underscores on a line by themselves  
