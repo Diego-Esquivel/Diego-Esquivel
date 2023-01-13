@@ -24,11 +24,6 @@ Here are some ideas to get you started:
 <br />
 <br />
          
-
-### 📊 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Diego-Esquivel&show_icons=true&theme=gotham" alt="Diego's GitHub stats" />
-
 ### Here is a md guide
 
 Headings : For compatability you should always include a new line before and after the heading  
