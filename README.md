@@ -7,11 +7,11 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Code
-- 🌱 I’m currently learning Transistors
+- 🌱 I’m currently learning Networks & Security
 - 👯 I’m looking to collaborate on Work
 - 🤔 I’m looking for help with Employment
 - 💬 Ask me about Work
-- 📫 How to reach me: Instagram
+- 📫 How to reach me: Work
 - 😄 Pronouns: They/Them/Theirs
 - ⚡ Fun fact: I love writing code
 
