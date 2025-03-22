@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Code
-- 🌱 I’m currently learning Networks & Security
+- 🌱 I’m currently learning Software & System Administraction & Security
 - 👯 I’m looking to collaborate on Work
 - 🤔 I’m looking for help with Employment
 - 💬 Ask me about Work
