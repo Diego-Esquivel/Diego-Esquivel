@@ -7,9 +7,9 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Code
-- 🌱 I’m currently learning Software & System Administraction & Security
+- 🌱 I’m currently learning Advanced Computer Security & Elements of Software Development
 - 👯 I’m looking to collaborate on Work
-- 🤔 I’m looking for help with Employment
+- 🤔 I’m looking for help with Capstone Sponsorship
 - 💬 Ask me about Work
 - 📫 How to reach me: Work
 - 😄 Pronouns: They/Them/Theirs
