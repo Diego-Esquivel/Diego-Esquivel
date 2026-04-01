@@ -6,14 +6,14 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on WIMS
+- 🔭 I’m currently working on Bluetooth network edge weight function, wearable tech: _space-grade CPUs_, and segment tree over time + DSU w/ rollback for offline dynamic connectivity
 - 🌱 I’m currently learning Advanced Algorithms & Mobile Computing
 - 👯 I’m looking to collaborate on Work
-- 🤔 I’m looking for help with Finding Rivals
-- 💬 Ask me about Work
-- 📫 How to reach me: Throw a dart in the dark
+- 🤔 I’m looking for help with Building a computer
+- 💬 Ask me about Pervasive Computing
+- 📫 How to reach me: **-**
 - 😄 Pronouns: They/Them/Theirs
-- ⚡ Fun fact: I learned about writing code
+- ⚡ Fun fact: I love writing code
 
 
 
