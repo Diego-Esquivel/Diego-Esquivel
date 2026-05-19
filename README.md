@@ -6,11 +6,11 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Bluetooth network edge weight function, wearable tech: _space-grade CPUs_, and segment tree over time + DSU w/ rollback for offline dynamic connectivity
-- 🌱 I’m currently learning Advanced Algorithms & Mobile Computing
+- 🔭 I’m currently working on Computer Security
+- 🌱 I’m currently learning Data Ethics
 - 👯 I’m looking to collaborate on Work
-- 🤔 I’m looking for help with Building a computer
-- 💬 Ask me about Pervasive Computing
+- 🤔 I’m looking for help with Java
+- 💬 Ask me about Computer Security
 - 📫 How to reach me: **-**
 - 😄 Pronouns: They/Them/Theirs
 - ⚡ Fun fact: I love writing code
