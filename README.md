@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Computer Security
-- 🌱 I’m currently learning Data Ethics
+- 🔭 I’m currently working on **-**
+- 🌱 I’m currently learning Low-Light Image Enhancement
 - 👯 I’m looking to collaborate on Work
 - 🤔 I’m looking for help with Java
 - 💬 Ask me about Computer Security
