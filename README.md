@@ -6,9 +6,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on **-**
-- 🌱 I’m currently learning Low-Light Image Enhancement
-- 👯 I’m looking to collaborate on Work
+- 🔭 I’m currently working on **Master's Thesis**
+- 🌱 I’m currently learning **Low-Light Image Enhancement** and **Wearable Technology**
+- 👯 I’m looking to collaborate on **-**
 - 🤔 I’m looking for help with Java
 - 💬 Ask me about Computer Security
 - 📫 How to reach me: **-**
